@@ -1,6 +1,20 @@
-This repository contains a collection of C++ and Java programs, projects, and practical
-implementations covering various concepts in software development. The code is organized,
-well-structured, and designed to demonstrate efficient programming practices,
-problem-solving techniques, and reusable solutions. It serves as a centralized collection
-of implementations developed using C++ and Java, with a focus on code quality, readability, 
-and maintainability.
+# Java
+
+This repository contains Java projects and source code developed for learning, practice, and implementation of programming concepts using Java.
+
+## About
+
+The purpose of this repository is to demonstrate problem-solving skills, object-oriented programming concepts, and Java application development. The projects included are simple, clean, and beginner-friendly.
+
+## Features
+
+- Clean and readable code
+- Object-Oriented Programming concepts
+- Beginner-friendly structure
+- Easy to run and modify
+
+## Technologies Used
+
+- Java
+- JDK 8+
+- Eclipse IDE
